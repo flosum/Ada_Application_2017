@@ -1,7 +1,7 @@
 # about-me
 
 
-Hi, I'm Florence Sum. 
+###About Florence Sum, Applicant to Ada Developers Academy
 
-Earned my MPA in June 2015 and seeking a pathway towards my STEM education dream. This is the first step. Don't stop me now.
-
+####Summary
+In this repository, you will find my resume which will outline my education, recent experience, and other skills that contributes to me as a well-roudnded applicant.
