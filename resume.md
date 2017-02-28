@@ -1,4 +1,5 @@
-#Florence Sum ---
+#Florence Sum  
+-----
 206-228-3899 // [sumflorence@gmail.com](mailto:sumflorence@gmail.com "Email Me") // [linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
 
 ####PROFESSIONAL SUMMARY: 
@@ -9,11 +10,14 @@ nonprofit professional leader and organizational structures
 - Proactive employee with a deep understanding of social justice issues and interest in equitable and alternative learning opportunities that center on the most impacted communities
 
 ####EXPERIENCE  
-**PROGRAM OPERATIONS SPECIALIST**
-[ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present
-•	Responsible for event planning, tracking event participation, financial projections, and updating membership database
-•	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW 
-
+**PROGRAM OPERATIONS SPECIALIST**  
+[ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present  
+-	Responsible for event planning, tracking event participation, financial projections, and updating membership database  
+-	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW 
+  
+**EDUCATION ADVOCATE**
+[Seattle Education Access](www.seattleeducationaccess.org) / Jul 2015 – Jun 2016  
+-	Coordinated outreach and led a coalition of community partners in North Seattle to advance essential services for over 6,500 students
 
 ####EDUCATION
 
