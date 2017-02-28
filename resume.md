@@ -1,5 +1,5 @@
 ##Florence Sum 
-[sumflorence@gmail.com](mailto:sumflorence@gmail.com)// 206-228-3899//[linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
+206-228-3899 // [sumflorence@gmail.com](mailto:sumflorence@gmail.com) // [linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
 
 ####PROFESSIONAL SUMMARY: 
 - Recent graduate of University of Washington’s Evans School of Public Policy & Governance with over 6  years of community engagement and non-profit operations experience in King County
