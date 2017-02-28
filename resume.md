@@ -10,18 +10,26 @@ nonprofit professional leader and organizational structures
 
 ###EXPERIENCE  
 **PROGRAM OPERATIONS SPECIALIST**  
-[ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present   
--	Responsible for event planning, tracking event participation, financial projections, and updating membership database via excel and   
--	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW 
-  
+[ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present     
+-	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW  
+- Updated websites via dreamweaver and using HTML and CSS 
+
 **EDUCATION ADVOCATE**  
 [Seattle Education Access](www.seattleeducationaccess.org) / Jul 2015 – Jun 2016  
 -	Coordinated outreach and led a coalition of community partners in North Seattle to advance essential services for over 6,500 students
-
+  
 GRADUATE STAFF ASSISTANT
 Dec 2013 - Jun 2015
 
 ###EDUCATION
+MASTER’S DEGREE
+Public Administration
+University of Washington Evans School of Public Policy & Governance | June 2015
 
+BACHELOR OF ARTS
+American Ethnic Studies and Communications
+University of Washington | June 2013
 
 ###SKILLS
+Languages + Frameworks: HTML, CSS, Ruby
+Tools: Trello, Slack, Basecamp, Asana, Git/GitHub, Wordpress, Adobe CC: Indesign, Photoshop, 
