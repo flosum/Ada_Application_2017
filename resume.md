@@ -46,11 +46,11 @@
 
 
 ###EDUCATION
-MASTER’S OF PUBLIC ADMINISTRATION  
+**MASTER’S OF PUBLIC ADMINISTRATION**  
 _Nonprofit Administration & Education Policy_  
 University of Washington Evans School of Public Policy & Governance | June 2015
 
-BACHELOR OF ARTS  
+**BACHELOR OF ARTS**  
 _American Ethnic Studies and Communications_  
 University of Washington | June 2013
 
