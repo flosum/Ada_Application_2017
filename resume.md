@@ -1,15 +1,16 @@
-#Florence Sum  
+#FLORENCE SUM
 206-228-3899 // [sumflorence@gmail.com](mailto:sumflorence@gmail.com "Email Me") // [linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
 
 
 ###WORK EXPERIENCE  
+-------
 **PROGRAM OPERATIONS SPECIALIST**  
 [ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present     
 -	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW  
 - Manages 3 websites via Dreamweaver, Drupal, and Wordpress and uses HTML and CSS to produce and edits content 
 - Collaborate with Web Developer and Director of program to evalute user experience with websites
 
-**TREASURER; BOARD MEMBER**
+**TREASURER; BOARD MEMBER**  
 [Asian Pacific Islander Community Leadership Foundation](aclfnorthwest.org) / Feb 2015 - Present  
 -	Consult and collaborate with other board members on sustainability strategies, event planning, recruitment strategies, fundraising efforts, grant applications, governance, and strategic planning
 - Manages Wordpress website and is tasked to redesign website for brand alignment and increase effectiveness for users/persons
@@ -46,6 +47,7 @@
 
 
 ###EDUCATION
+------
 MASTER’S OF PUBLIC ADMINISTRATION  
 _Nonprofit Administration & Education Policy_  
 University of Washington Evans School of Public Policy & Governance | June 2015
@@ -55,5 +57,6 @@ _American Ethnic Studies and Communications_
 University of Washington | June 2013
 
 ###SKILLS
+------
 Languages + Frameworks: HTML5 & CSS3  
 Tools: Trello, Slack, Basecamp, Asana, Git/GitHub, Wordpress, Adobe CC: InDesign & Photoshop
