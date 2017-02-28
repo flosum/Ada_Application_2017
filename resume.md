@@ -3,7 +3,6 @@
 
 
 ###WORK EXPERIENCE  
--------
 **PROGRAM OPERATIONS SPECIALIST**  
 [ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present     
 -	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW  
@@ -47,7 +46,6 @@
 
 
 ###EDUCATION
-------
 MASTER’S OF PUBLIC ADMINISTRATION  
 _Nonprofit Administration & Education Policy_  
 University of Washington Evans School of Public Policy & Governance | June 2015
@@ -57,6 +55,10 @@ _American Ethnic Studies and Communications_
 University of Washington | June 2013
 
 ###SKILLS
-------
-Languages + Frameworks: HTML5 & CSS3  
+OS: Mac & Windows  
+Microsoft Office Suite, Google Products - Docs, Sheets, & Forms  
+Database Tools: Salesforce  
+Social Media Products: Facebook, Twitter, Instagram, LinkedIn  
+Statstical Software: SPSS  
+Technical Languages + Frameworks: HTML5 & CSS3  
 Tools: Trello, Slack, Basecamp, Asana, Git/GitHub, Wordpress, Adobe CC: InDesign & Photoshop
