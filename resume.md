@@ -2,11 +2,7 @@
 206-228-3899 // [sumflorence@gmail.com](mailto:sumflorence@gmail.com "Email Me") // [linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
 
 
-###WORK EXPERIENCE  
- .sqs-block-content hr {
-   margin-top: 0px !important;
-   margin-bottom: 0px !important;
- }
+###WORK EXPERIENCE  -------
 **PROGRAM OPERATIONS SPECIALIST**  
 [ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present     
 -	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW  
