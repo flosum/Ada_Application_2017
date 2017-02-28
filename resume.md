@@ -1,4 +1,4 @@
-##Florence Sum 
+#Florence Sum 
 206-228-3899 // [sumflorence@gmail.com](mailto:sumflorence@gmail.com) // [linkedin.com/in/florencesum](https://www.linkedin.com/in/florencesum "Florence's LinkedIn")
 
 ####PROFESSIONAL SUMMARY: 
