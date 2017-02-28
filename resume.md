@@ -22,14 +22,14 @@ GRADUATE STAFF ASSISTANT
 Dec 2013 - Jun 2015
 
 ###EDUCATION
-MASTER’S DEGREE
-Public Administration
+MASTER’S OF PUBLIC ADMINISTRATION  
+Nonprofit Administration & Education Policy  
 University of Washington Evans School of Public Policy & Governance | June 2015
 
-BACHELOR OF ARTS
-American Ethnic Studies and Communications
+BACHELOR OF ARTS  
+American Ethnic Studies and Communications  
 University of Washington | June 2013
 
 ###SKILLS
-Languages + Frameworks: HTML, CSS, Ruby
-Tools: Trello, Slack, Basecamp, Asana, Git/GitHub, Wordpress, Adobe CC: Indesign, Photoshop, 
+Languages + Frameworks: HTML & CSS  
+Tools: Trello, Slack, Basecamp, Asana, Git/GitHub, Wordpress, Adobe CC: InDesign & Photoshop
