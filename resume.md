@@ -3,6 +3,10 @@
 
 
 ###WORK EXPERIENCE  
+ .sqs-block-content hr {
+   margin-top: 0px !important;
+   margin-bottom: 0px !important;
+ }
 **PROGRAM OPERATIONS SPECIALIST**  
 [ADVANCE Center for Institutional Change](advance.washington.edu), University of Washington (UW) / Sept 2016 – Present     
 -	Provide operational support for four programs which includes making financial projections, planning events, improving websites, brainstorming workshop topics, managing grant applications, and assisting with faculty recruitment to build a pipeline of women faculty in STEM fields at UW  
