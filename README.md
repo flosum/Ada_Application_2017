@@ -14,5 +14,5 @@ In this repository, you will find my resume which will outline my education, rec
 
 ###Questions? Contact Me  
 Phone #: 206-228-3899  
-[Email: sumflorence@gmail.com](mailto:sumflorence@gmail.com)
-[LinkedIn: linkedin.com/in/florencesum/](https://www.linkedin.com/in/florencesum/)
+Email: [sumflorence@gmail.com](mailto:sumflorence@gmail.com)  
+LinkedIn: [linkedin.com/in/florencesum/](https://www.linkedin.com/in/florencesum/)
