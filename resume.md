@@ -57,7 +57,7 @@ University of Washington | June 2013
 ###SKILLS
 **OS**: Mac & Windows  
 **Administrative**: Microsoft Office Suite, Google Products - Docs, Sheets, & Forms  
-**Database Tools**: Salesforce, Excel
+**Database Tools**: Salesforce, Excel  
 **Social Media Products**: Facebook, Twitter, Instagram, LinkedIn  
 **Statstical Software**: SPSS  
 **Technical Languages + Frameworks**: HTML5 & CSS3  
